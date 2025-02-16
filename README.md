@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rohitview
-- 👀 I’m interested in AIML & Machine Learning
-- 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me By my college suggesion
+- 👋 Hi, I’m Rohit
+- 👀 I’m interested in Embedded C and MCU, MPU programming
+- 🌱 I’m currently learning more and more
+- 💞️ I’m looking to collaborate on Vehicle tracking project
+- 📫 You can reach me on linkedin for any part suggession
 
 <!---
 rohitview/rohitview is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
